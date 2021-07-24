@@ -14,7 +14,7 @@ The competition involved the prediction of algal frequency distributions on the 
 
 There are a total of 340 examples each containing 17 values. The first 11 values of each data set are the season, the river size, the fluid velocity and 8 chemical concentrations which should be relevant for the algae population distribution. The last 8 values of each example are the distribution of different kinds of algae.
 
-This data set was used in the COIL International Data Analysis Competition in 1999. The detailed information of this data set can be obtained from the UCI Machine Learning Database (http://archive.ics.uci.edu/ml/datasets/Coil+1999+Competition+Data).
+This data set was used in the COIL International Data Analysis Competition in 1999. The detailed information of this data set can be obtained from the [UCI Machine Learning Database](http://archive.ics.uci.edu/ml/datasets/Coil+1999+Competition+Data).
 
 ## Lsit
 - Analysis.txt (Data set)
