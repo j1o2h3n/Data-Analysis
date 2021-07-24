@@ -7,7 +7,7 @@ We preprocess the data first to clean dirty data. Then analyze the data. The ana
   <img width="922" height="494" src=./fig/picture.jpg>
 </p>
 
-## Data Set Information:
+## Data Set Information
 This data comes from a water quality study where samples were taken from sites on different European rivers of a period of approximately one year. These samples were analyzed for various chemical substances including: nitrogen in the form of nitrates, nitrites and ammonia, phosphate, pH, oxygen, chloride. In parallel, algae samples were collected to determine the algae population distributions.
 
 The competition involved the prediction of algal frequency distributions on the basis of the measured concentrations of the chemical substances and the global information concerning the season when the sample was taken, the river size and its flow velocity. 
